@@ -1,0 +1,6 @@
+<network_configuration>
+    <server class = "org.westbank.network.servlet.WorldServer">
+        <servlet_name>worldserver</servlet_name>
+        <address>127.0.0.1:43594</address>
+    </server>
+</network_configuration>
